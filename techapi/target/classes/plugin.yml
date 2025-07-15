@@ -1,0 +1,9 @@
+name: techapi
+main: com.rschao.plugins.techapi.Plugin
+version: 1.0
+api-version: 1.21
+description: A plugin to easily make technique based systems.
+authors:
+  - RSChao
+contributors: 
+  - D3lta7
