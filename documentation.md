@@ -1,6 +1,7 @@
 # Documentation:
 
 **TechRegistry**
+
 Manages the registration and retrieval of techniques for different fruits.
 
 registerTechnique(String fruitId, Technique technique): Registers a technique for a specific fruit.
